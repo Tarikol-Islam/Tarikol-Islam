@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tarikol-islam&label=Profile%20views&color=0e75b6&style=flat" alt="tarikol-islam" /> </p>
 
-- 🌱 I’m currently learning **React JS** for my frontend framwork
+- 🌱 I’m currently learning **React JS** for my frontend framwork & Odoo for ERP!
 - Looking for an opportunity as a Fullstack Devloper.
 
 - 💬 Ask me about **Django, Python**
