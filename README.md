@@ -1,14 +1,14 @@
-<h1 align="center">Hi 👋, I'm Tarikol</h1>
+<h1 align="center">Hi 👋, I'm Tarikol Islam</h1>
 <h3 align="center">A passionate Software developer from Asia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tarikol-islam&label=Profile%20views&color=0e75b6&style=flat" alt="tarikol-islam" /> </p>
 
-- 🌱 I’m currently learning **React JS** for my frontend framwork & Odoo for ERP!
-- Looking for an opportunity as a Fullstack Devloper.
+- 🌱 I’m a Odoo developer from Asia. And I can also help you at Django framework!
+- I am willing to serve you as a Fullstack Odoo & Django Devloper.
 
-- 💬 Ask me about **Django, Python**
+- 💬 You can ask me about **Odoo, Django & Python**
 
-- 📫 How to reach me **tuhidtitw98@gmail.com**
+- 📫 How to reach me **tuhidtitw98@gmail.com** or **hello.tarikol@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
