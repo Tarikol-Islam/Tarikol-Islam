@@ -8,7 +8,7 @@
 
 - 💬 You can ask me about **Odoo, Django & Python**
 
-- Current Professional Github Link: <a href="https://github.com/intarikol" />
+- Current Professional Github Link: <a href="https://github.com/intarikol">intarikol</a>
 
 - 📫 How to reach me **tuhidtitw98@gmail.com** or **hello.tarikol@gmail.com**
 
